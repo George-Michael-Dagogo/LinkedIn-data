@@ -1,0 +1,5 @@
+beautifulsoup4==4.13.4
+fake_useragent==2.2.0
+pandas==2.3.0
+psycopg2_binary==2.9.10
+Requests==2.32.4
